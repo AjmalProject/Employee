@@ -1,0 +1,57 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url(image/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: dodgerblue;
+    padding: 7px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li{
+    list-style: none;
+    display: flex;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+nav ul li a:hover{
+    background-color: black;
+   
+}
+h1{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 40px;
+    font-family: monospace;
+    color:crimson;
+
+
+}
+img{
+    margin: auto;
+    
+}
+.div-3{
+    margin-left: 50px;
+}

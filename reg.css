@@ -1,0 +1,45 @@
+body{
+    background-image: url(image/pic2.jpg);
+    height: 300px;
+}
+fieldset{
+    width: 300px;
+    margin: 200px auto;
+    height: 200px;
+    background-color: rgba(150, 9, 98, 0.67);
+    border-radius: 7px;
+}
+legend{
+    font-size: 20px;
+    font-weight: bolder;
+}
+label{
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+
+    
+}
+.inputBox{
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 40px;
+}
+.inputBox1{
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+   
+}
+button{
+    background-color: green;
+    border-radius: 10px;
+    margin-left: 40%;
+    padding: 5px 10px;
+    font-size: 17px;
+    cursor: pointer;
+    font-weight: bold;
+}
+button:hover{
+    background-color: red;
+}

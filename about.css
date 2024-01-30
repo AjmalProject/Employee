@@ -1,0 +1,9 @@
+body{
+    background-image: url(image/pic2.jpg);
+	margin: 0;
+	 padding: 0;
+    background-color: #5D6D7E;
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}

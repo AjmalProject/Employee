@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:url(m.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+nav{
+    background-color: skyblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav ul{
+    display: flex;
+    margin-right: 100px;
+}
+
+li{
+    list-style-type: none;
+    margin: 0px 20px;
+    padding: 10px;
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+}
